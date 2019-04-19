@@ -2,7 +2,7 @@
 ### **Using Twitter Kit 3**
 Cordova/PhoneGap plugin to use Twitter Single Sign On 
 
-In this wersion I just removed unsupported platforms i386 and x86_64.
+In this version I've just removed unsupported platforms i386 and x86_64.
 
 
 Available on npm at: https://www.npmjs.com/package/cordova-twitter3-connect-plugin
